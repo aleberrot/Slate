@@ -1,0 +1,20 @@
+body{
+    background-color: #8E806A;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.subrayado{
+    text-decoration: underline;
+}
+
+.cuadro{
+    display: inline-block;
+    left: 50%;
+    height: 300px;
+    width: 300px;
+    border: solid black;
+    margin: 50px;
+}
+
